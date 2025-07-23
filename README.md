@@ -10,9 +10,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=skippersquareroot100&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Animated snake progress" width="300" />
-</p>
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
