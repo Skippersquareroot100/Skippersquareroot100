@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pic.png" alt="Profile Image" width="1500"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Maruf Hasan Anik</h1>
 <h3 align="center">💻 Software Developer | 🤖 AI Enthusiast | 🌐 Web Explorer</h3>
 
