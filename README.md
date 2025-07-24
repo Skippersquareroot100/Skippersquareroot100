@@ -53,19 +53,7 @@
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vite](https://skillicons.dev/icons?i=vite) ![Postman](https://skillicons.dev/icons?i=postman) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=ps) ![Illustrator](https://skillicons.dev/icons?i=ai) ![Unity](https://skillicons.dev/icons?i=unity) ![Arduino](https://skillicons.dev/icons?i=arduino) ![Linux](https://skillicons.dev/icons?i=linux) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Java](https://skillicons.dev/icons?i=java)
 
 
-## 📊 GitHub Stats (Python Focused)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skippersquareroot100&langs_count=10&layout=compact&theme=radical&hide=css,html&include_all_commits=true" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=skippersquareroot100&show_icons=true&locale=en&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skippersquareroot100&theme=radical" alt="GitHub Streak" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=skippersquareroot100&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skippersquareroot100&theme=tokyonight" alt="Repos per Language" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skippersquareroot100&theme=tokyonight" alt="Most Used Language" /> </p> <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skippersquareroot100&theme=tokyonight" alt="Stats" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skippersquareroot100&theme=tokyonight&utcOffset=6" alt="Productive Time" /> </p> <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skippersquareroot100&theme=tokyonight" alt="Profile Details" /> </p>
 
 ---
 
