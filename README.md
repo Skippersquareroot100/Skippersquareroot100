@@ -50,7 +50,50 @@
 ---
 
 ### 🧰 Platforms & Tools  
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vite](https://skillicons.dev/icons?i=vite) ![Postman](https://skillicons.dev/icons?i=postman) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=ps) ![Illustrator](https://skillicons.dev/icons?i=ai) ![Unity](https://skillicons.dev/icons?i=unity) ![Arduino](https://skillicons.dev/icons?i=arduino) ![Linux](https://skillicons.dev/icons?i=linux) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Java](https://skillicons.dev/icons?i=java)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vite](https://skillicons.dev/icons?i=vite) ![Postman](https://skillicons.dev/icons?i=postman) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=ps) ![Illustrator](https://skillicons.dev/icons?i=ai) ![Unity](https://skillicons.dev/icons?i=unity) ![Arduino](https://skillicons.dev/icons?i=arduino) ![Linux](https://skillicons.dev/icons?i=linux)  
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Java](https://skillicons.dev/icons?i=java) ![Bash](https://skillicons.dev/icons?i=bash)
+
+---
+
+### 💾 Databases  
+![MySQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://upload.wikimedia.org/wikipedia/commons/5/5b/Oracle_logo.svg) ![Microsoft SQL Server](https://skillicons.dev/icons?i=azuredevops) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+---
+
+### ⚙️ Other Technologies & Concepts  
+- **APIDog** (API testing & documentation tool)  
+- AJAX  
+- REST APIs  
+- MVC Architecture (.NET, Laravel)  
+- ORM (Entity Framework)  
+- PL/SQL (Oracle procedural language)  
+- VLAN & Network Configuration (Cisco Packet Tracer)  
+- Software Engineering Ethics (IEEE, ACM, NSPE)  
+- Android UI (ConstraintLayout, TextView, etc.)  
+- Assembly (EMU8086)  
+
+---
+
+### 📱 Mobile Development  
+- Android Studio (Kotlin, Java)  
+- Android UI & Layouts  
+
+---
+
+### 💻 Notebooks & Scripting  
+- Google Colab  
+- Jupyter Notebook  
+
+---
+
+### 📂 Projects & Apps  
+- Job Marketplace (Web)  
+- Indoor Playground Management System  
+- AI-Based Learning Assistant for Students  
+- Dashboard for Computer Selling Store  
+- Quiz / Learning Game app (Android/Kotlin)  
+- GitHub Profile README enhancements  
+
 
 
 <div align="center"> <!-- GitHub Streak -->  <img height="150" src="https://streak-stats.demolab.com?user=skippersquareroot100&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </a> <!-- Stats Card --> <a href="https://github.com/skippersquareroot100"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=skippersquareroot100&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /> </a> <!-- Top Languages (Pie Chart) --> <a href="https://github.com/skippersquareroot100"> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skippersquareroot100&layout=pie&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" /> </a> <br/> <!-- Repos Per Language --> <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skippersquareroot100&theme=tokyonight" alt="Repos Per Language" /> <!-- Most Commit Language --> <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skippersquareroot100&theme=tokyonight" alt="Most Used Language" /> <br/> <!-- General Stats --> <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skippersquareroot100&theme=tokyonight" alt="Stats Summary" /> <!-- Productive Time --> <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skippersquareroot100&theme=tokyonight&utcOffset=6" alt="Productive Time" /> <br/> <!-- Profile Details (Bar style) --> <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skippersquareroot100&theme=tokyonight" alt="Profile Details" /> </div>
