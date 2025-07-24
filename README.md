@@ -56,7 +56,7 @@
 ---
 
 ### 💾 Databases  
-![MySQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://upload.wikimedia.org/wikipedia/commons/5/5b/Oracle_logo.svg) ![Microsoft SQL Server](https://skillicons.dev/icons?i=azuredevops) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)  ![Microsoft SQL Server](https://skillicons.dev/icons?i=azuredevops) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 ---
 
@@ -86,13 +86,6 @@
 
 ---
 
-### 📂 Projects & Apps  
-- Job Marketplace (Web)  
-- Indoor Playground Management System  
-- AI-Based Learning Assistant for Students  
-- Dashboard for Computer Selling Store  
-- Quiz / Learning Game app (Android/Kotlin)  
-- GitHub Profile README enhancements  
 
 
 
