@@ -1,31 +1,8 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-# 🔑 REQUIRED: allow GitHub Actions to push to gh-pages
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: gh-pages
-          force_orphan: true
+- name: Generate snake
+  uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/snake.svg
+      dist/snake-dark.svg?palette=github-dark
+      dist/snake-ocean.svg?color_snake=#00D4FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
