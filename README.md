@@ -310,7 +310,10 @@ HSC (Science) 2020 — GPA 5.00 · SSC (Science) 2018 — GPA 5.00
 
 ## Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Skippersquareroot100/Skippersquareroot100/gh-pages/github-snake.svg" />
-</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skippersquareroot100/Skippersquareroot100/gh-pages/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Skippersquareroot100/Skippersquareroot100/gh-pages/snake-ocean.svg" />
+  </picture>
+</p>
