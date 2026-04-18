@@ -59,7 +59,7 @@ Cadet Under Officer • leadership • discipline
   
 <p align="center">LinkedIn: https://linkedin.com/in/skipperanik  </p>
 <p align="center">Email: hasanmaruf0055@gmail.com  </p>
-  <img src="https://komarev.com/ghpvc/?username=skippersquareroot100&style=flat&color=6e40c9&label=Profile+Views" />
+  <img  align="center" src="https://komarev.com/ghpvc/?username=skippersquareroot100&style=flat&color=6e40c9&label=Profile+Views" />
 </p>
 
 
