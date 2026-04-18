@@ -2,8 +2,9 @@
   <img src="pic1.png" />
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=skippersquareroot100&style=flat&color=6e40c9&label=Profile+Views" />
-  
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" width="400" />
+</p>
 ---
 
 ## Impact
