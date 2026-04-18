@@ -11,7 +11,7 @@
 - 🏢 Enterprise Test Cases: **350+**
 - ⚙️ Projects Delivered: **15+**
 - 💻 DSA Problems: **200+**
-- 🎓 CGPA: **3.74 / 4.00**
+- 🎓 CGPA: **3.75 / 4.00**
 
 ---
 
@@ -42,6 +42,9 @@ TensorFlow • PyTorch • OpenCV
 
 **IT Executive — Dhaka Stock Exchange PLC**  
 Enterprise systems • testing • Oracle • Java backend
+
+**Software Developer — Datasoft Systems Bangladesh Limited**  
+Enterprise systems • Angular • Bootstrap
 
 **BNCC (6 years)**  
 Cadet Under Officer • leadership • discipline
