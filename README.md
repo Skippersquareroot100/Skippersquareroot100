@@ -2,6 +2,8 @@
   <img src="pic1.png" />
 </p>
 
+  <img src="https://komarev.com/ghpvc/?username=skippersquareroot100&style=flat&color=6e40c9&label=Profile+Views" />
+  
 ---
 
 ## Impact
