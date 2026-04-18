@@ -53,10 +53,11 @@ Cadet Under Officer • leadership • discipline
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" width="400" />
-</p>
-
+  
 LinkedIn: https://linkedin.com/in/skipperanik  
 Email: hasanmaruf0055@gmail.com  
+</p>
+
 
 ---
 
