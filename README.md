@@ -2,12 +2,6 @@
   <img src="pic1.png" />
 </p>
 
-<h2 align="center">Maruf Hasan Anik</h2>
-
-<p align="center">
-  Full Stack Engineer • AI Systems Developer • IT Executive @ Dhaka Stock Exchange
-</p>
-
 ---
 
 ## Impact
